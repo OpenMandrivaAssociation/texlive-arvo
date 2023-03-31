@@ -1,6 +1,6 @@
 Name:		texlive-arvo
 Version:	57213
-Release:	1
+Release:	2
 Summary:	The Arvo font face with support for LaTeX and pdfLaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/arvo
