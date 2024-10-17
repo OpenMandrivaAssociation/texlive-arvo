@@ -3,7 +3,7 @@ Version:	57213
 Release:	2
 Summary:	The Arvo font face with support for LaTeX and pdfLaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/arvo
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/arvo
 License:	ofl lppl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/arvo.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/arvo.doc.r%{version}.tar.xz
